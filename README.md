@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, React-Native and Flutter**
 
-- 👨‍💻 All of my projects are available at [priyanshu-bharti.github.io](priyanshu-bharti.github.io)
+- 👨‍💻 All of my projects are available at [priyanshu-bharti.github.io](https://priyanshu-bharti.github.io)
 
 - 📫 How to reach me **priyanshub25@gmail.com**
 
