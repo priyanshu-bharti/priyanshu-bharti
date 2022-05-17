@@ -19,6 +19,5 @@
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-bharti&layout=compact)](https://github.com/priyanshu-bharti/)  -->
-<center> 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu-bharti&show_icons=true&locale=en&layout=compact" alt="priyanshu-bharti"/></p>
-</center>
