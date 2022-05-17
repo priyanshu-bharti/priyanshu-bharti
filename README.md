@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [priyanshu-bharti.github.io](https://priyanshu-bharti.github.io)
 
-- 📫 How to reach me **priyanshub25@gmail.com**
+- 📫 Reach me at **priyanshub25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
