@@ -74,11 +74,11 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+<!--       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" -->
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgAuAwfMMDkwZScsLkBAeZ4GjyfB7GtIzcA&usqp=CAU"
       alt="express"
       width="40"
       height="40"
-      style="background: white"
     />
   </a>
   <br>
