@@ -78,7 +78,7 @@
       alt="express"
       width="40"
       height="40"
-      bgcolor="white"
+      style="background: white"
     />
   </a>
   <br>
