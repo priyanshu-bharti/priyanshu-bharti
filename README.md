@@ -7,7 +7,6 @@
 
 - 📫 Reach me at **priyanshub25@gmail.com**
 
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +15,6 @@
 <a href="https://www.hackerrank.com/priyanshub25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyanshub25" height="30" width="40" /></a>
 </p>
 
-<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
